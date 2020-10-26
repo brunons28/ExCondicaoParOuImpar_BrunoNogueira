@@ -15,7 +15,7 @@ public class ExercícioCondição1_BrunoNogueira {
         int num1;
         Scanner entrada = new Scanner(System.in);
         
-        System.out.print("Digite o número escolhido: ");
+        System.out.print("Digite um número: ");
         num1 = entrada.nextInt();
         
         if(num1 % 2 == 0){
